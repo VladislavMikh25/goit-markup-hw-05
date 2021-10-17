@@ -648,7 +648,6 @@ body {
   justify-content: center;
   transition: opacity 300ms ease-in-out, visibility 300ms ease-in-out;
 }
-
 .close-btn {
   position: absolute;
   right: 17px;
